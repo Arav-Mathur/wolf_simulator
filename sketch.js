@@ -8,10 +8,10 @@ var bg, l_wall1, cave_img, score, bg_bl,bg_br,bg_tr,bg_tl, gamestatex,gamestatey
   cave.visible = true
   } */
   function preload() {
-  bg_bl = loadImage("images/bg-bl.PNG");
-  bg_br = loadImage("images/bg-br.PNG");
+  bg_bl = loadImage("images/bg-bl.png");
+  bg_br = loadImage("images/bg-br.png");
   bg_tl = loadImage("images/bg-tl2.png");
-  bg_tr = loadImage("images/bg-tr.PNG");
+  bg_tr = loadImage("images/bg-tr.png");
 
   lwolf = loadImage("images/l-wolf.png");
   rwolf = loadImage("images/r-wolf.png");
@@ -21,7 +21,7 @@ var bg, l_wall1, cave_img, score, bg_bl,bg_br,bg_tr,bg_tl, gamestatex,gamestatey
   deer_img = loadImage("images/deers.png")
   ox_img = loadImage("images/bison.png")
   rabbit_img = loadImage("images/big-doofuses.png")
-  fish_img = loadImage("images/fish.PNG")
+  fish_img = loadImage("images/fish.png")
 
 
 }
