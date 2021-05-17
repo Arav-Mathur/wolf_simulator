@@ -26,7 +26,7 @@ var bg, l_wall1, cave_img, score, bg_bl,bg_br,bg_tr,bg_tl, gamestatex,gamestatey
 
 }
 
-
+//test
 
 function setup() {
   createCanvas(1500,700);
